@@ -4,6 +4,9 @@
 
 *An AI-native world-building game where players build, explore and create alongside autonomous AI.*
 
+![MAKEVA Game Visual](https://makeva.exsrv.com/assets/makeva_header03.jpg)
+
+
 ---
 
 ## 🌍 What is MAKEVA?
